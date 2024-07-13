@@ -1,4 +1,15 @@
+# Root 
 /.settings
 /bin
 .classpath
 .project
+
+# Package Files #
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.rar
+
+# Compiled class file
+*.class
